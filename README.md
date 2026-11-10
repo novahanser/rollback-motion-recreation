@@ -13,8 +13,6 @@
 
 - [collected_v12.zip](collected_v12.zip)：第 12 版 AE 收集工程、其使用的素材、重建数据和收集报告。
 - [SKILL.md](SKILL.md)：长卷拼贴平面动效的设计语言、复刻与 AE 实现方法。
-- [SHA256SUMS.txt](SHA256SUMS.txt)：压缩包及 Skill 文件的 SHA-256 校验值。
-- `.gitattributes`：保留原始压缩包和 Skill 文件的字节内容，便于校验。
 
 ## AE 工程
 
