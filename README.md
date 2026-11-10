@@ -8,7 +8,6 @@
 插画 / 动画：Fox-kikumi  
 合成 / 设计：kkmfd、ariiol  
 3D 渲染：ariiol、Furyxzia  
-复刻制作：[你的名字 / ID]
 
 ## 仓库内容
 
