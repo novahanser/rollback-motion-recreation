@@ -15,15 +15,3 @@
 | [longscroll-collage-motion](SKILL.md) | 长卷拼贴动效的分析、设计与 After Effects 复刻方法 | [《rollback/Q》](projects/rollback-q/README.md) |
 
 更多说明及后续 Skill 的整理方式见 [Skill 索引](skills/README.md)。Skill 是供 AI 助手参考的方法文档，不一定是可直接运行的程序。
-
-## 仓库结构
-
-```text
-projects/                    项目说明与后续项目工程
-  rollback-q/README.md       现有复刻项目说明
-skills/README.md             Skill 索引与整理方式
-collected_v12.zip            《rollback/Q》AE 收集工程
-SKILL.md                     longscroll-collage-motion Skill
-```
-
-现有的工程压缩包和 Skill 保留在仓库根目录，原有链接仍可使用。后续项目可分别放在 `projects/<项目名>/`，新增 Skill 可放在 `skills/<skill-name>/`，并在上方索引中补充说明。
