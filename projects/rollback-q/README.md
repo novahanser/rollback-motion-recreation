@@ -11,8 +11,8 @@
 
 ## 仓库内容
 
-- [collected_v12.zip](../../collected_v12.zip)：第 12 版 AE 收集工程、其使用的素材、重建数据和收集报告。
-- [SKILL.md](../../SKILL.md)：长卷拼贴平面动效的设计语言、复刻与 AE 实现方法。
+- [collected_v12.zip](collected_v12.zip)：第 12 版 AE 收集工程、其使用的素材、重建数据和收集报告。
+- [SKILL.md](../../skills/longscroll-collage-motion/SKILL.md)：长卷拼贴平面动效的设计语言、复刻与 AE 实现方法。
 
 ## AE 工程
 
@@ -28,7 +28,7 @@
 
 ## Skill 是什么
 
-[SKILL.md](../../SKILL.md) 是一份给 AI 助手使用的方法文档，名称为 `longscroll-collage-motion`。它总结了长卷拼贴类平面动效的视觉和运动语言，并记录如何分析参考片、搭建 AE 工程和检查复刻结果。主要内容包括：
+[SKILL.md](../../skills/longscroll-collage-motion/SKILL.md) 是一份给 AI 助手使用的方法文档，名称为 `longscroll-collage-motion`。它总结了长卷拼贴类平面动效的视觉和运动语言，并记录如何分析参考片、搭建 AE 工程和检查复刻结果。主要内容包括：
 
 1. **画面设计**：横向长卷、居中刻度尺、限色拼贴、镜像与剪影等版式和视觉元素。
 2. **运动节奏**：相机平移与缩放、按拍跳变、剪影占位、擦除和闪帧等做法。
