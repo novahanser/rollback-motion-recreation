@@ -1,6 +1,6 @@
 # 《Exoplanetary Mirage》动态设计小样 v6
 
-这是使用 AI 辅助制作的动态设计小样，音乐使用了かめりあ的《Exoplanetary Mirage》片段。这里提供整理后的 After Effects 工程包。
+这是使用 AI 辅助制作的动态设计小样，音乐使用了《Exoplanetary Mirage》片段。这里提供整理后的 After Effects 工程包。
 
 ## 工程下载
 

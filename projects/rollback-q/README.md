@@ -2,12 +2,7 @@
 
 这是一份非官方的动态设计复刻练习，整理了收集后的 After Effects 工程、素材，以及制作过程中总结的长卷拼贴动效 Skill。项目仅供学习交流，不作商业用途。
 
-- 原作：[ariiol - rollback/Q ft.ナースロボ＿タイプＴ](https://www.bilibili.com/video/BV1Wb8p62ErY/)
-- 音乐：ariiol
-- 影像导演：kkmfd
-- 插画 / 动画：Fox-kikumi
-- 合成 / 设计：kkmfd、ariiol
-- 3D 渲染：ariiol、Furyxzia
+原作：[rollback/Q](https://www.bilibili.com/video/BV1Wb8p62ErY/)
 
 ## 仓库内容
 
