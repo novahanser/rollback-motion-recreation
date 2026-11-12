@@ -12,7 +12,9 @@
 ## 仓库内容
 
 - [collected_v12.zip](collected_v12.zip)：第 12 版 AE 收集工程、其使用的素材、重建数据和收集报告。
+- [从 GitHub Release 下载工程包](https://github.com/novahanser/ai-motion-creation/releases/download/rollback-q-v12/collected_v12.zip)：与上述压缩包内容相同。
 - [SKILL.md](../../skills/longscroll-collage-motion/SKILL.md)：长卷拼贴平面动效的设计语言、复刻与 AE 实现方法。
+- [rollback-replica](rollback-replica/README.md)：复刻分析与参考脚本；其中部分脚本需要调整本机路径，原始素材及额外产物未随参考实现一同提供。
 
 ## AE 工程
 
@@ -41,7 +43,7 @@
 
 > 参考这份 Skill，帮我拆解一段长卷拼贴动效，列出镜头、节奏、素材与 AE 搭建步骤。
 
-Skill 是方法说明，并不是一键运行的程序。文中提到的 `rollback-replica/` 参考实现、`scripts/`、测量工具及 After Effects MCP 能力均需另行准备，本仓库没有提供这些脚本或服务；所附压缩包提供的是已收集的 AE 工程。
+Skill 是方法说明，并不是一键运行的程序。仓库中的 `rollback-replica/` 提供参考实现、脚本与测量工具；运行时仍需准备相应素材和环境，After Effects MCP 服务也需另行准备。所附压缩包提供的是已收集的 AE 工程。
 
 ## 权利与 AI 使用说明
 
